@@ -1,3 +1,4 @@
 .completada{
-    text-decoratiom: line-trough;
+    text-decoration: line-trough;
+    color: red;
 }
